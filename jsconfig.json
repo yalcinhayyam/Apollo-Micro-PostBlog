@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "*": ["src/*"],
+      "config/*": ["config/*"],
+      "middlewares/*": ["middlewares/*"],
+      "models/*": ["models/*"],
+      "public/*": ["public/*"],
+      "repositories/*": ["repositories/*"],
+      "services/*": ["services/*"],
+      "utils/*": ["utils/*"],
+      "database/*": ["database/*"]
+    }
+  }
+}
